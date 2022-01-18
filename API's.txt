@@ -1,0 +1,2 @@
+https://data.nasa.gov/resource/b67r-rgxc.json
+https://data.nasa.gov/resource/gh4g-9sfh.geojson
